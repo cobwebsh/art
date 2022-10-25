@@ -1,2 +1,2 @@
 # art
-Branding stuffs
+Branding stuffs, primarily made by [intergrav](https://github.com/intergrav)
